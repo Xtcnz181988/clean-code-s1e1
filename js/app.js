@@ -52,7 +52,7 @@ var createNewTaskElement=function(taskString){
     deleteButton.appendChild(deleteButtonImg);
 
 
-    //and appending.
+     //and appending.
     listItem.appendChild(checkBox);
     listItem.appendChild(label);
     listItem.appendChild(editInput);
